@@ -1,0 +1,1 @@
+python -c "import screen_brightness_control as sbc,time; [print('\rBrightness:',sbc.get_brightness(display=0)[0],end='',flush=True) or time.sleep(1) for _ in iter(int,1)]"
