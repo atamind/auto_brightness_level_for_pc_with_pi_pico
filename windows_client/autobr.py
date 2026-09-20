@@ -6,7 +6,20 @@ from collections import deque
 
 PORT = "COM5"
 BAUD = 115200
-ser = serial.Serial(PORT, BAUD, timeout=1)
+RECONNECT_DELAY = 2  # saniye, portu bekleme/yeniden bağlanma aralığı
+
+def connect_serial():
+    """COM portu hazır olana kadar bekleyip bağlanır, hata ile kapanmaz."""
+    while True:
+        try:
+            s = serial.Serial(PORT, BAUD, timeout=1)
+            print(f"{PORT} bağlandı.")
+            return s
+        except serial.SerialException as e:
+            print(f"{PORT} bulunamadı, bekleniyor... ({e})")
+            time.sleep(RECONNECT_DELAY)
+
+ser = connect_serial()
 print("Smart adaptive brightness started...")
 
 # ==================================================
@@ -86,6 +99,14 @@ while True:
 
         print(f"Lux: {avg_lux:.2f} | " f"Target: {target:.1f} | " f"Final: {final}")
         time.sleep(0.05)
+
+    except serial.SerialException as e:
+        print(f"Bağlantı koptu ({e}), yeniden bağlanılıyor...")
+        try:
+            ser.close()
+        except Exception:
+            pass
+        ser = connect_serial()
 
     except Exception as e:
         print("Error:", e)
