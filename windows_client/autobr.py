@@ -188,14 +188,15 @@ class Preferences:
 
     def settings_brightness(self):
         with self.lock:
-            if self.mode == "custom":
+            brightness = self.current_base_brightness
+            if brightness is None:
+                brightness = self.reference_brightness
+            if brightness is None:
                 brightness = self.desired_brightness
-            else:
-                brightness = self.current_base_brightness
-                if brightness is None:
-                    brightness = self.reference_brightness
-                if brightness is None:
-                    brightness = self.desired_brightness
+
+            if self.mode == "custom":
+                brightness = max(brightness, MIN_CUSTOM_BASE_BRIGHTNESS)
+                brightness *= self.multiplier
             return int(round(max(MIN_BRIGHTNESS, min(MAX_BRIGHTNESS, brightness))))
 
 
@@ -584,8 +585,7 @@ def main():
                             base_target = lux_to_brightness(average_lux)
                             smoothed = smooth(smoothed, base_target)
                             preferences.apply_base_brightness(smoothed)
-                            if preferences.snapshot()[0] == "default":
-                                bridge.brightness_updated.emit()
+                            bridge.brightness_updated.emit()
 
                         forced_output = apply_requested_brightness(
                             brightness_update_requested,
