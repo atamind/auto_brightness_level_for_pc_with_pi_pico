@@ -1,0 +1,1353 @@
+2026-10-16 03:31:27,080 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:29,118 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:31,120 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:33,124 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:35,127 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:37,135 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:39,142 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:41,149 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:43,156 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:45,159 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:47,164 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:49,173 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:51,175 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:53,183 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:55,190 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:57,193 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:31:59,194 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:01,197 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:03,212 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:05,228 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:07,242 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:09,250 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:11,263 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:13,277 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:15,285 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:17,293 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:19,299 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:21,316 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:23,330 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:25,336 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:27,338 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:29,346 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:31,350 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:33,358 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:35,372 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:37,377 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:39,380 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:41,400 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:43,405 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:45,431 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:47,433 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:49,439 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:51,447 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:53,462 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:55,476 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:57,478 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:32:59,481 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:01,502 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:03,513 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:05,516 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:07,523 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:09,526 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:11,535 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:13,562 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:15,579 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:17,582 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:19,596 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:21,599 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:23,611 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:25,614 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:27,621 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:29,628 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:31,635 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:33,642 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:35,649 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:37,656 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:39,663 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:44,235 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:46,239 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:48,246 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:50,253 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:52,261 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:54,267 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:56,274 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:33:58,286 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:34:00,302 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:34:02,308 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:34:04,315 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:34:06,322 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:34:08,329 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:34:10,332 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 345, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:03,996 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:06,011 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:08,018 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:10,024 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:12,028 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:14,031 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:16,038 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:18,039 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:20,045 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:22,052 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:24,059 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:26,065 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:28,073 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:30,079 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:32,086 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:34,093 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:36,100 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:38,108 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:40,114 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:42,121 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:44,128 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:46,135 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:48,136 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:50,142 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:52,149 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:54,155 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:35:56,159 ERROR Serial connection failed; reconnecting
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 358, in sensor_loop
+    with serial.Serial(PORT, BAUD, timeout=1) as connection:
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+  File "D:\Python\Python310\lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+  File "D:\Python\Python310\lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': PermissionError(13, 'Eriþim engellendi.', None, 5)
+2026-10-16 03:36:27,767 INFO COM5 connected
+2026-10-16 03:36:28,463 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:29,399 ERROR Could not save settings
+Traceback (most recent call last):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 262, in update_slider
+    if preferences.set_desired_brightness(desired):
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 147, in set_desired_brightness
+    self.save()
+  File "D:\Users\Omer\Desktop\Dev\Python\auto_brightness\windows_client\autobr.py", line 113, in save
+    temporary_path.replace(self.settings_path)
+  File "D:\Python\Python310\lib\pathlib.py", line 1247, in replace
+    self._accessor.replace(self, target)
+PermissionError: [WinError 5] Eriþim engellendi: 'D:\\Users\\Omer\\Desktop\\Dev\\Python\\auto_brightness\\windows_client\\autobr_settings.json.tmp' -> 'D:\\Users\\Omer\\Desktop\\Dev\\Python\\auto_brightness\\windows_client\\autobr_settings.json'
+2026-10-16 03:36:29,789 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:31,809 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:33,376 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:35,308 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:37,855 INFO COM5 connected
+2026-10-16 03:36:38,286 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:40,254 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:41,754 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:45,348 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:36:48,316 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:31,975 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:35,478 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:44,395 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:47,878 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:49,993 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:52,390 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:57,490 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:37:59,402 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:01,005 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:14,065 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:15,532 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:17,004 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:19,102 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:21,545 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:22,968 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:25,113 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:27,075 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:28,490 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:36,083 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:40,629 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:52,534 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:38:57,159 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:39:09,709 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:39:14,246 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:39:26,737 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:39:31,749 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:39:43,280 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:39:48,292 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:40:33,855 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:40:38,376 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:40:50,934 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:40:55,379 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:41:40,971 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:41:46,752 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:41:57,573 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:25,503 INFO COM5 connected
+2026-10-16 03:43:25,784 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:30,735 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:32,247 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:33,739 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:36,267 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:41,756 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:44,261 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:49,766 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:43:51,261 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:16,751 INFO COM5 connected
+2026-10-16 03:51:17,307 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:29,377 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:30,775 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:32,316 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:36,373 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:40,919 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:51,448 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:51:58,900 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:52:07,457 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:52:16,006 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:52:24,044 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:52:32,010 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:52:43,067 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:52:48,133 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:00,038 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:05,046 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:16,084 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:21,667 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:33,623 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:39,130 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:48,747 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:53:55,704 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:54:05,229 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:54:12,220 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:54:24,248 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:54:28,817 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:54:41,267 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:54:45,865 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:54:57,395 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:02,832 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:14,331 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:17,449 INFO COM5 connected
+2026-10-16 03:55:18,100 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:22,484 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:23,956 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:26,527 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:27,980 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:55:29,458 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:24,176 INFO COM5 connected
+2026-10-16 03:59:24,616 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:43,121 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:45,031 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:48,015 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:52,597 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:54,074 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:58,022 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 03:59:59,582 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:00:27,704 INFO COM5 connected
+2026-10-16 04:00:28,294 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:26,629 INFO COM5 connected
+2026-10-16 04:06:27,167 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:36,055 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:37,425 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:39,901 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:41,404 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:43,410 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:45,410 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:46,999 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:48,451 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:50,429 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:52,898 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:54,953 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:56,424 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:58,437 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:06:59,952 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:01,465 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:06,427 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:10,803 INFO COM5 connected
+2026-10-16 04:07:11,558 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:23,489 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:32,090 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:40,161 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:49,123 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:07:57,227 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:08:05,857 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:08:14,354 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:08:22,765 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:08:26,782 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:08:28,635 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:31,416 INFO COM5 connected
+2026-10-16 04:10:31,967 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:37,366 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:41,564 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:43,522 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:44,924 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:46,640 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:48,027 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:50,093 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:51,886 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:53,332 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:54,652 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:58,230 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:10:59,758 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:11:02,324 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:11:03,931 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?
+2026-10-16 04:11:12,059 WARNING display '4&35d5571b&2&UID265988' is detected but not present in monitor_uids. Maybe it is asleep?

@@ -1,1 +1,1 @@
-pyinstaller --onefile --noconsole autobr.py
+pyinstaller --onefile --noconsole --hidden-import=pystray._win32 autobr.py
